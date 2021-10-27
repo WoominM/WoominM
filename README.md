@@ -47,7 +47,7 @@ I’m a master's student in electronic engineering at TsingHua University. <br/>
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" align="left" alt="pytorch" height="50" />  
 
   
-<br/>  <br/><br/><br/> 
+<br/>  <br/><br/>
 <br/>  
 <div align="center">   
 <img src="https://activity-graph.herokuapp.com/graph?username=WoominM&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 80%" />   
