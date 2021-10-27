@@ -16,10 +16,9 @@
 ## Rapidfire  
 <tr><td valign="top" width="50%">
 
-- 🎓 I’m a Master's student in electronic engineering at Tsinghua University  
-  
+I’m a Master's student in electronic engineering at Tsinghua University <br>
 
--  👓 My research filed is Computer Vision, Graph Neural Network, Skeleton-Based Action Recognition  
+-  🎓 My research filed is Computer Vision, Graph Neural Network, Skeleton-Based Action Recognition  
   
 
 - ❓  If you have any questions, please contact me via email : auddnals@naver.com    
@@ -57,8 +56,8 @@
 <table><tr><td valign="top" width="50%">
   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WoominM)
-  
-</td><td valign="top" width="50%"> 
+
+<br/>
   
 ![GitHub metrics](https://metrics.lecoq.io/WoominM)  
   
