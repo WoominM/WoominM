@@ -60,7 +60,7 @@
 <br/>  
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=WoominM&&style=flat-square)  
-  
+![GitHub metrics](https://metrics.lecoq.io/WoominM)    
 
 <br/>  
 
