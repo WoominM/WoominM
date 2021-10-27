@@ -50,9 +50,10 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woominM&hide_border=true&layout=compact" align="left" />
 
 </td></tr></table>  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WoominM)
 
 <br/>  
+  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WoominM)
 
   
 
@@ -67,4 +68,3 @@
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
