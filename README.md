@@ -8,15 +8,13 @@
 
 ### Glad to see you here!  
   
-  
+I’m a master's student in electronic engineering at Tsinghua University <br/><br/>  
 
 <br/>  
 
 
 ## Rapidfire  
 <tr><td valign="top" width="50%">
-
-I’m a master's student in electronic engineering at Tsinghua University <br/><br/>
 
 -  🎓 My research filed is Computer Vision, Graph Neural Network, Skeleton-Based Action Recognition  
   
