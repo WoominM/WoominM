@@ -53,18 +53,17 @@
 
 <br/>  
  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WoominM)
+
 <br/> 
-  
 
 <br/>  
 <table><tr><td valign="top" width="50%">
-
-![Profile views counter](https://komarev.com/ghpvc/?username=WoominM&&style=flat-square)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WoominM)
+  
 ![GitHub metrics](https://metrics.lecoq.io/WoominM)    
 </td></tr></table> 
 <br/>  
-
+![Profile views counter](https://komarev.com/ghpvc/?username=WoominM&&style=flat-square)
 
 <br />
 
