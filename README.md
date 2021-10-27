@@ -16,7 +16,7 @@
 ## Rapidfire  
 <tr><td valign="top" width="50%">
 
-I’m a Master's student in electronic engineering at Tsinghua University <br>
+I’m a Master's student in electronic engineering at Tsinghua University <br/>
 
 -  🎓 My research filed is Computer Vision, Graph Neural Network, Skeleton-Based Action Recognition  
   
