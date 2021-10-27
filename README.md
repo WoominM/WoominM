@@ -37,8 +37,9 @@ I’m a master's student in electronic engineering at TsingHua University. <br/>
 
 <a href="https://github.com/WoominM" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> 
-![Profile views counter](https://komarev.com/ghpvc/?username=WoominM&&style=flat-square)
 </a> 
+<br>
+![Profile views counter](https://komarev.com/ghpvc/?username=WoominM&&style=flat-square)
 
   
 <table><tr><td valign="top" width="50%">
