@@ -1,4 +1,4 @@
-## Hey 👋, I'm Woomin!  
+## Hi, there! 👋  
   
 
 <a href="https://github.com/WoominM" target="_blank">
