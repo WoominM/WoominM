@@ -37,7 +37,7 @@ I’m a master's student in electronic engineering at TsingHua University. <br/>
 
 <a href="https://github.com/WoominM" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> 
-<img src=https://komarev.com/ghpvc/?username=WoominM&&style=flat-square?&style=for-the-badge&logo=github&logoColor=white alt=github align="right" height="40" style="margin-bottom: 10px;" /> 
+<img src=https://komarev.com/ghpvc/?username=WoominM&&style=flat-square?&style=for-the-badge&logo=github&logoColor=white alt=github height="30" style="margin-bottom: 10px;" /> 
 </a> 
   
 <table><tr><td valign="top" width="50%">
