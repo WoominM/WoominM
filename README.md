@@ -53,8 +53,7 @@ I’m a master's student in electronic engineering at TsingHua University. <br/>
 <br/>  
   
 <table><tr><td valign="top" width="50%">
-  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WoominM) 
+<img src="https://activity-graph.herokuapp.com/graph?username=WoominM&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />   
   
 </td></tr></table> 
   
