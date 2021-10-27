@@ -41,9 +41,10 @@ I’m a master's student in electronic engineering at TsingHua University. <br/>
   
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=woominM&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woominM&hide_border=true&layout=compact" align="right" />
 </td></tr></table> 
   
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woominM&hide_border=true&layout=compact" align="right" />
+
 
   
 
