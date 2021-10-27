@@ -52,14 +52,13 @@
 </td></tr></table>  
 
 <br/>   
-<br/> 
 <br/>  
   
 <table><tr><td valign="top" width="50%">
   
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WoominM)
   
-<br/>   
+</td><td valign="top" width="50%"> 
   
 ![GitHub metrics](https://metrics.lecoq.io/WoominM)  
   
