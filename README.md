@@ -24,17 +24,7 @@
 -  👓 My research filed is Computer Vision, Graph Neural Network, Skeleton-Based Action Recognition  
   
 
-- ❓  If you have any questions, please contact me via email : auddnals@naver.com   
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
+- ❓  If you have any questions, please contact me via email : auddnals@naver.com    
 
 <br/>  
 
