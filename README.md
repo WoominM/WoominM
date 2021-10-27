@@ -42,22 +42,18 @@ I’m a master's student in electronic engineering at TsingHua University. <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=woominM&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-</td><td valign="top" width="50%">
+</td></tr></table>
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woominM&hide_border=true&layout=compact" align="right" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woominM&hide_border=true&layout=compact" align="left" />
-
-</td></tr></table>  
+  
 
 <br/>   
 <br/>  
   
 <table><tr><td valign="top" width="50%">
   
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WoominM)
-
-<br/>
-  
-![GitHub metrics](https://metrics.lecoq.io/WoominM)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WoominM) 
   
 </td></tr></table> 
   
