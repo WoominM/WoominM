@@ -8,7 +8,7 @@
 
 ### Glad to see you here!  
   
-I’m a master's student in electronic engineering at TsingHua University. <br/>
+I’m a master's student in electronic engineering at TsingHua Universit.🎓 <br/>
 
 <br/>  
 
@@ -16,7 +16,7 @@ I’m a master's student in electronic engineering at TsingHua University. <br/>
 ## Rapidfire  
 <tr><td valign="top" width="50%">
 
--  🎓 My research filed is Computer Vision, Graph Neural Network, Skeleton-Based Action Recognition  
+-  ✍️ My research filed is Computer Vision, Graph Neural Network, Skeleton-Based Action Recognition  
   
 
 - ❓  If you have any questions, please contact me via email : auddnals@naver.com    
