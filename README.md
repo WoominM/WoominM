@@ -2,7 +2,7 @@
   
 
 <a href="https://github.com/WoominM" target="_blank">
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/WoominM)  
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /> 
 </a>  
   
 
