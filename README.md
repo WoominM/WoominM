@@ -52,10 +52,8 @@ I’m a master's student in electronic engineering at TsingHua University. <br/>
 <br/>   
 <br/>  
   
-<table><tr><td valign="top" width="50%">
-<img src="https://activity-graph.herokuapp.com/graph?username=WoominM&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />   
+<img src="https://activity-graph.herokuapp.com/graph?username=WoominM&show_icons=true&count_private=true&hide_border=true" align="centre" style="width: 80%" />   
   
-</td></tr></table> 
   
 <br/>  
   
