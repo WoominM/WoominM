@@ -1,19 +1,45 @@
-# **<div align="center">Hi there! 👨‍💻 </div>**  
+## Hey 👋, I'm Woomin!  
   
 
-- #### 🎓 I’m a Master's student in electronic engineering at Tsinghua University  
+<a href="https://github.com/WoominM" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>  
   
 
-- ####  👓 My research filed is Computer Vision, Graph Neural Network, Skeleton-Based Action Recognition  
-  
 
-- #### ❓  If you have any questions, please contact me via email : auddnals@naver.com   
+
+### Glad to see you here!  
+  
   
 
 <br/>  
 
 
-## My Skill Set  
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
+
+- 🎓 I’m a Master's student in electronic engineering at Tsinghua University  
+  
+
+-  👓 My research filed is Computer Vision, Graph Neural Network, Skeleton-Based Action Recognition  
+  
+
+- ❓  If you have any questions, please contact me via email : auddnals@naver.com   
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" />  
@@ -22,7 +48,7 @@
 <br/>  
 
 
-## Github Stats   
+## Github Stats  
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=woominM&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
@@ -33,14 +59,19 @@
 
 </td></tr></table>  
 
-<br/>   
+<br/>  
 
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=WoominM&&style=flat-square" align="center" />
-</div>  
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=WoominM&&style=flat-square)  
   
 
 <br/>  
 
 
 <br />
+
+----
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
