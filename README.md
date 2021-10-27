@@ -22,14 +22,6 @@ I’m a master's student in electronic engineering at TsingHua University. <br/>
 - ❓  If you have any questions, please contact me via email : auddnals@naver.com    
 
 <br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-
-</div>  
-
 <br/>  
 
 
