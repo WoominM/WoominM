@@ -16,7 +16,7 @@
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<tr><td valign="top" width="50%">
 
 - 🎓 I’m a Master's student in electronic engineering at Tsinghua University  
   
