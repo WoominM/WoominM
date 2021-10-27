@@ -20,8 +20,7 @@ I’m a master's student in electronic engineering at TsingHua University. <br/>
   
 
 - ❓  If you have any questions, please contact me via email : auddnals@naver.com    
-
-<br/>  
+  
 <br/>  
 
 
