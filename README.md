@@ -52,9 +52,10 @@
 </td></tr></table>  
 
 <br/>  
-  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WoominM)
 
+<br/> 
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=WoominM)
+<br/> 
   
 
 <br/>  
