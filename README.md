@@ -42,7 +42,7 @@ I’m a master's student in electronic engineering at TsingHua University. <br/>
   
 <table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=woominM&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woominM&hide_border=true&layout=compact" align="centre" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woominM&hide_border=true&layout=compact" align="center" />
 </td></tr></table> 
   
 
@@ -52,7 +52,7 @@ I’m a master's student in electronic engineering at TsingHua University. <br/>
 <br/>   
 <br/>  
   
-<img src="https://activity-graph.herokuapp.com/graph?username=WoominM&show_icons=true&count_private=true&hide_border=true" align="centre" style="width: 80%" />   
+<img src="https://activity-graph.herokuapp.com/graph?username=WoominM&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 80%" />   
   
   
 <br/>  
