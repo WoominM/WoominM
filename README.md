@@ -51,14 +51,11 @@ I’m a master's student in electronic engineering at TsingHua University. <br/>
 
 <br/>   
 <br/>  
-  
+<div align="center">   
 <img src="https://activity-graph.herokuapp.com/graph?username=WoominM&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 80%" />   
-  
+</div>   
   
 <br/>  
-  
-
-
 <br />
 
 ----
