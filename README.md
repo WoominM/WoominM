@@ -1,13 +1,13 @@
 # **<div align="center">Hi there! 👨‍💻 </div>**  
   
 
-- ### 🎓 I’m a Master's student in electronic engineering at Tsinghua University  
+- #### 🎓 I’m a Master's student in electronic engineering at Tsinghua University  
   
 
-- ###  👓 My research filed is Computer Vision, Graph Neural Network, Skeleton-Based Action Recognition  
+- ####  👓 My research filed is Computer Vision, Graph Neural Network, Skeleton-Based Action Recognition  
   
 
-- ### ❓  If you have any questions, please contact me via email : auddnals@naver.com   
+- #### ❓  If you have any questions, please contact me via email : auddnals@naver.com   
   
 
 <br/>  
