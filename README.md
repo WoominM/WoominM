@@ -22,14 +22,16 @@
 <br/>  
 
 
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api?username=WoominM&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />  
+## Github Stats   
+<table><tr><td valign="top" width="50%">
 
-<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woominM&hide_border=true&layout=compact" align="right" /></div>  
+<img src="https://github-readme-stats.vercel.app/api?username=woominM&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
-<br/>  
+</td><td valign="top" width="50%">
 
-  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woominM&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
 
 <br/>  
 
