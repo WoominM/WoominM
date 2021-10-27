@@ -43,6 +43,7 @@ I’m a master's student in electronic engineering at TsingHua University. <br/>
 <table><tr><td width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=woominM&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=woominM&hide_border=true&layout=compact" align="center" />
+</td><td valign="down" width="50%">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
 </td></tr></table> 
   
