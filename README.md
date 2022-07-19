@@ -8,7 +8,7 @@
 
 ### Glad to see you here. 
   
-I’m a master's student in electronic engineering at TsingHua University. <br/>
+I graduated from Tsinghua University with a master's degree in information and communication engineering. <br/>
 
 <br/>  
 
