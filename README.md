@@ -37,10 +37,9 @@ I graduated from Tsinghua University with a master's degree in information and c
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" align="left" alt="Python" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" align="left" alt="pytorch" height="40" />  
 
-  
+\\<!-- 
 <br/>  <br/><br/>
 <br/>  
-\\<!--
 <div align="center">   
 <img src="https://activity-graph.herokuapp.com/graph?username=WoominM&theme=react-dark&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 80%" />   
 </div>   
