@@ -40,9 +40,9 @@ I graduated from Tsinghua University with a master's degree in information and c
   
 <br/>  <br/><br/>
 <br/>  
-%<div align="center">   
-%<img src="https://activity-graph.herokuapp.com/graph?username=WoominM&theme=react-dark&show_icons=true&count_private=true&hide_border=true" align="center" %style="width: 80%" />   
-%</div>   
+#<div align="center">   
+#<img src="https://activity-graph.herokuapp.com/graph?username=WoominM&theme=react-dark&show_icons=true&count_private=true&hide_border=true" align="center" #style="width: 80%" />   
+#</div>   
   
 <br/>  
 <br />
