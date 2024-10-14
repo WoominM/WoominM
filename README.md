@@ -16,7 +16,7 @@ I graduated from Tsinghua University with a master's degree in information and c
 ## Rapidfire  
 <tr><td valign="top" width="50%">
 
--  ✍️ My research filed is Computer Vision, Skeleton-Based Action Recognition  
+-  ✍️ My research filed is Document Understanding, Skeleton-Based Action Recognition, Machine Learning
   
 
 - ❓  If you have any questions, please contact me via email : auddnals@naver.com    
