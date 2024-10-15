@@ -8,7 +8,7 @@ I’m a **machine learning researcher** specializing in **computer vision**, pas
 
 <br>
 
-### Research Interests 🔍:
+### 🔍  Research Interests:
 - Data-centric AI
 - Document Understanding
 - Generative Models
