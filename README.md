@@ -18,7 +18,7 @@ I’m a **machine learning researcher** specializing in **computer vision**, pas
 <br>
 <br>
 
-💻 *Programming Language*
+**Programming Language**
 
 Python (Advanced), C/C++ (Elementary)
 
