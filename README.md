@@ -7,16 +7,25 @@
 
 
 ### Glad to see you here. 
-  
-I graduated from Tsinghua University with a master's degree in information and communication engineering. <br/>
 
-<br/>  
+Passionate about applying various AI algorithms to solve industrial problems and optimize them. 
+✍️ My Research Interests: Data-centric AI, Document Understanding, Generative Model, Skeleton-Based Action Recognition, Machine Learning
 
+**Computer Language** 
 
-## Rapidfire  
-<tr><td valign="top" width="50%">
+Python (Advanced), C/C++ (Elementary)
 
--  ✍️ My Interests: Document Understanding, Generative Model, Skeleton-Based Action Recognition, Machine Learning
+**Framework / Library**
+
+Pytorch (Advanced), ONNX, TensorRT, Triton
+
+**Infrastructure**
+
+Linux, Docker, Git
+
+**Spoken Language**
+
+Native Korean, Fluent in English and Chinese
   
 
 - ❓  If you have any questions, please contact me via email : auddnals@naver.com    
