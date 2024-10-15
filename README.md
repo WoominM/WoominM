@@ -4,7 +4,7 @@
 
 ### Glad to see you here. 
 
-I’m a **machine learning researcher** specializing in **computer vision**, passionate about leveraging AI / ML algorithms to tackle industrial challenges and optimize processes.
+I’m a **machine learning research engineer** specializing in **computer vision**, passionate about leveraging AI / ML algorithms to tackle industrial challenges and optimize processes.
 
 <br>
 
