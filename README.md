@@ -53,10 +53,4 @@ Native Korean, Fluent in English and Chinese
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" align="left" alt="Python" height="40" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" align="left" alt="pytorch" height="40" />  
 
-
-<br/>  <br/><br/>
-<br/>  
-<br/>  
-<br />
-
 ----
