@@ -1,15 +1,20 @@
 # Hi, there! 👋  
   
 
- 
-  
-
-
 
 ### Glad to see you here. 
 
-Passionate about applying various AI algorithms to solve industrial problems and optimize them. 
-✍️ My Research Interests: Data-centric AI, Document Understanding, Generative Model, Skeleton-Based Action Recognition, Machine Learning
+I’m a **machine learning researcher** specializing in **computer vision**, passionate about leveraging AI / ML algorithms to tackle industrial challenges and optimize processes.
+
+<br>
+<br>
+
+### Research Interests:
+- Data-centric AI
+- Document Understanding
+- Generative Models
+- Skeleton-Based Action Recognition
+- Machine Learning
 
 **Computer Language** 
 
@@ -27,8 +32,8 @@ Linux, Docker, Git
 
 Native Korean, Fluent in English and Chinese
   
-
-- ❓  If you have any questions, please contact me via email : auddnals@naver.com    
+---
+❓  If you have any questions, please contact me via email : auddnals@naver.com    
   
 <br/>  
 
