@@ -22,15 +22,15 @@ I’m a **machine learning researcher** specializing in **computer vision**, pas
 
 Python (Advanced), C/C++ (Elementary)
 
-📚 **Framework & Library**
+**Framework & Library**
 
 Pytorch (Advanced), ONNX, TensorRT, Triton
 
-🛠️ **Infrastructure**
+**Infrastructure**
 
 Linux, Docker, Git
 
-🌐**Spoken Language**
+**Spoken Language**
 
 Native Korean, Fluent in English and Chinese
   
