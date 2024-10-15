@@ -7,28 +7,29 @@
 I’m a **machine learning researcher** specializing in **computer vision**, passionate about leveraging AI / ML algorithms to tackle industrial challenges and optimize processes.
 
 <br>
-<br>
 
-### Research Interests:
+### 🔍 Research Interests:
 - Data-centric AI
 - Document Understanding
 - Generative Models
 - Skeleton-Based Action Recognition
 - Machine Learning
 
-**Computer Language** 
+<br>
+
+💻 **Programming Language** 
 
 Python (Advanced), C/C++ (Elementary)
 
-**Framework / Library**
+📚 **Framework & Library**
 
 Pytorch (Advanced), ONNX, TensorRT, Triton
 
-**Infrastructure**
+🛠️ **Infrastructure**
 
 Linux, Docker, Git
 
-**Spoken Language**
+🌐**Spoken Language**
 
 Native Korean, Fluent in English and Chinese
   
